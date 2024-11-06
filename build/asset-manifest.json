@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AdrielyQueiroz/portfolio/static/css/main.8e263d4b.css",
-    "main.js": "/AdrielyQueiroz/portfolio/static/js/main.8a7627ee.js",
-    "static/js/453.d4722a7d.chunk.js": "/AdrielyQueiroz/portfolio/static/js/453.d4722a7d.chunk.js",
-    "static/media/photo.jpg": "/AdrielyQueiroz/portfolio/static/media/photo.f1a07047ff9883ea6807.jpg",
-    "static/media/projeto_samsung.png": "/AdrielyQueiroz/portfolio/static/media/projeto_samsung.16471b5f202dd65ef9f0.png",
-    "static/media/vscode.png": "/AdrielyQueiroz/portfolio/static/media/vscode.a13ad7ce4fdfd8e353e5.png",
-    "static/media/tailwind.png": "/AdrielyQueiroz/portfolio/static/media/tailwind.ae40dbca0686d9cfdca0.png",
-    "static/media/react.png": "/AdrielyQueiroz/portfolio/static/media/react.2a0cac33f155e4a27216.png",
-    "index.html": "/AdrielyQueiroz/portfolio/index.html",
-    "main.8e263d4b.css.map": "/AdrielyQueiroz/portfolio/static/css/main.8e263d4b.css.map",
-    "main.8a7627ee.js.map": "/AdrielyQueiroz/portfolio/static/js/main.8a7627ee.js.map",
-    "453.d4722a7d.chunk.js.map": "/AdrielyQueiroz/portfolio/static/js/453.d4722a7d.chunk.js.map"
+    "main.css": "/AdrielyQueiroz/port/static/css/main.8e263d4b.css",
+    "main.js": "/AdrielyQueiroz/port/static/js/main.61f48d5f.js",
+    "static/js/453.d4722a7d.chunk.js": "/AdrielyQueiroz/port/static/js/453.d4722a7d.chunk.js",
+    "static/media/photo.jpg": "/AdrielyQueiroz/port/static/media/photo.f1a07047ff9883ea6807.jpg",
+    "static/media/projeto_samsung.png": "/AdrielyQueiroz/port/static/media/projeto_samsung.16471b5f202dd65ef9f0.png",
+    "static/media/vscode.png": "/AdrielyQueiroz/port/static/media/vscode.a13ad7ce4fdfd8e353e5.png",
+    "static/media/tailwind.png": "/AdrielyQueiroz/port/static/media/tailwind.ae40dbca0686d9cfdca0.png",
+    "static/media/react.png": "/AdrielyQueiroz/port/static/media/react.2a0cac33f155e4a27216.png",
+    "index.html": "/AdrielyQueiroz/port/index.html",
+    "main.8e263d4b.css.map": "/AdrielyQueiroz/port/static/css/main.8e263d4b.css.map",
+    "main.61f48d5f.js.map": "/AdrielyQueiroz/port/static/js/main.61f48d5f.js.map",
+    "453.d4722a7d.chunk.js.map": "/AdrielyQueiroz/port/static/js/453.d4722a7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e263d4b.css",
-    "static/js/main.8a7627ee.js"
+    "static/js/main.61f48d5f.js"
   ]
 }
